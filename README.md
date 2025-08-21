@@ -2,8 +2,7 @@
 
 <h1 align="center">🍥 Believe It! I'm Worker 🍥</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/xTiTnGxZz0U8nQKqW8/giphy.gif" width="260" alt="Naruto Rasengan"/>
-
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="260" alt="Akatsuki cloak"/>
 </p>
 
 ---
