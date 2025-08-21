@@ -2,7 +2,8 @@
 
 <h1 align="center">🍥 Believe It! I'm Worker 🍥</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/5z0r4L2Q2j6s0/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/xTiTnGxZz0U8nQKqW8/giphy.gif" width="260" alt="Naruto Rasengan"/>
+
 </p>
 
 ---
