@@ -1,58 +1,50 @@
-<!-- Profile README -->
+<!-- Naruto Themed GitHub Profile README -->
 
-<h1 align="center">👋 Hey there, I'm Worker</h1>
+<h1 align="center">🍥 Believe It! I'm Worker 🍥</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-.NET-blue?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-C%23-green?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-Angular-red?style=flat&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Database-SQL_Server-lightgrey?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://media.giphy.com/media/5z0r4L2Q2j6s0/giphy.gif" width="250"/>
 </p>
 
 ---
 
-## 🌱 About Me
-- 🔭 Currently building apps & games with **C# / .NET**  
-- 🎮 Interested in **game programming** & **full-stack development**  
-- 🧩 Love solving tricky problems and making clean, useful code  
-- ☁️ Exploring **Azure & cloud solutions**  
+## 🦊 My Ninja Way
+- 🥷 Writing jutsu in **C# / .NET**  
+- 🎮 Training arc: **Game Development**  
+- 🌐 Mastering the **Full-Stack Clan** (React, Angular, Node)  
+- ☁️ Summoning techniques with **Azure & Docker**  
+- 💡 Motto: *“Code like a Hokage, debug like a Genin.”*  
 
 ---
 
-## 🛠️ Tech Stacks
-
-### 🔹 Full-Stack
+## 🛡️ Ninja Tools (Tech Stack)
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,postgres" />
-</p>
-
-### 🔹 .NET & Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,azure,postgresql,mysql,git,docker" />
-</p>
-
-### 🔹 Tools & Workflow
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,git,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,angular,nodejs,express,azure,docker,git,postgres,mysql" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Power Level
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## 🌀 Famous Jutsus
+- 🔥 **Fire Style: Bug Fix Jutsu** – Deletes errors (or creates new ones).  
+- 💧 **Water Style: Database Overflow** – SQL queries faster than Kisame’s shark flood.  
+- 🌪️ **Wind Style: Frontend Slice** – React & Angular cutting through UI bugs.  
+- ⚡ **Lightning Style: Deployment Chidori** – Strikes fear into Azure pipelines.  
+
+---
+
+## 🍃 Call Me to the Hokage’s Office
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-HiddenLeaf-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-SummonScroll-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
